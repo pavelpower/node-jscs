@@ -12,6 +12,7 @@ JSCS — JavaScript Code Style.
  * [Wikimedia](presets/wikimedia.json) - https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript
  * [Google](presets/google.json) - https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
  * [Yandex](presets/yandex.json) - https://github.com/ymaps/codestyle/blob/master/js.md
+ * [CTI](presets/cti.json) - https://github.com/pavelpower/codestyle/blob/master/js.md
 
 ## Friendly packages
 
